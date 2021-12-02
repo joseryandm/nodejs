@@ -1,0 +1,15 @@
+{
+    "name": "share-house",
+    "version": "1.0.0",
+    "description": "Sistema Web para Divisão de Aluguel",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "José Ryan, Daniel Matheus, Edivan dos Santos",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
